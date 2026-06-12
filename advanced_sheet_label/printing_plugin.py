@@ -102,8 +102,8 @@ class AdvancedLabelSheetPlugin(LabelPrintingMixin, SettingsMixin, InvenTreePlugi
     NAME = 'AdvancedLabelSheet'
     TITLE = 'Advanced Label Sheet Printer'
     DESCRIPTION = 'Arrays multiple labels onto single, standard layout label sheets with additional useful features'
-    VERSION = '1.3.1'
-    AUTHOR = 'InvenTree contributors & melektron'
+    VERSION = '1.3.2'
+    AUTHOR = 'SkyMarker'
 
     BLOCKING_PRINT = True
 
