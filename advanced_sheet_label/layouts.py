@@ -256,7 +256,7 @@ LAYOUTS = {
         rows=10,
         column_spacing=0,
         row_spacing=0,
-        corner_radius=0
+        corner_radius=0,
     ),
     "8781": SheetLayout(
         display_name="8781",
@@ -267,7 +267,7 @@ LAYOUTS = {
         rows=13,
         column_spacing=0,
         row_spacing=0,
-        corner_radius=2.0
+        corner_radius=2.0,
     ),
 }
 
